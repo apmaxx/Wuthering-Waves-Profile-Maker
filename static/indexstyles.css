@@ -1,194 +1,323 @@
 body{
-    background-color: rgb(101, 164, 216);
+    background-color: rgb(165, 212, 255);
 }
 
 .aalto{
     position: absolute;
     left: 450px;
     top: 100px;
-        
+     transition: transform .2s;
+}
+.aalto:hover{
+    transform: scale(1.2);
 }
 
 .baizhi{
     position: absolute;
     left: 700px;
     top: 100px;
+    transition: transform .2s;
+}
+.baizhi:hover{
+    transform: scale(1.2);
 }
 
 .brant{
     position: absolute;
     left: 1050px;
     top: 100px;
+    transition: transform .2s;
+}
+.brant:hover{
+    transform: scale(1.2);
 }
 
 .calcharo{
     position: absolute;
     left: 1350px;
     top: 100px;
+    transition: transform .2s;
 }
 
+.calcharo:hover{
+    transform: scale(1.2);
+}
 .camellya{
     position: absolute;
     left: 1800px;
     top: 100px;
+    transition: transform .2s;
+}
+.camellya:hover{
+    transform: scale(1.2);
 }
 
 .canterella{
     position: absolute;
     top: 600px;
     left: 400px;
+    transition: transform .2s;
+}
+.canterella:hover{
+    transform: scale(1.2);
 }
 
 .carlotta{
     position: absolute;
     top: 600px;
     left: 700px;
+    transition: transform .2s;
+}
+.carlotta:hover{
+    transform: scale(1.2);
 }
 
 .cartethyia{
     position: absolute;
     top: 600px;
     left: 1020px;
+    transition: transform .2s;
+}
+.cartethyia:hover{
+    transform: scale(1.2);
 }
 
 .changli{
     position: absolute;
     top: 600px;
     left: 1400px;
+    transition: transform .2s;
+}
+.changli:hover{
+    transform: scale(1.2);
 }
 
 .chixia{
     position: absolute;
     top: 600px;
     left: 1800px;
+    transition: transform .2s;
+}
+.chixia:hover{
+    transform: scale(1.2);
 }
 
 .ciaccona{
     position: absolute;
     top: 1100px;
     left: 400px;
+    transition: transform .2s;
+}
+.ciaccona:hover{
+    transform: scale(1.2);
 }
 
 .danjin{
     position: absolute;
     top: 1100px;
     left: 750px;
+    transition: transform .2s;
 }
+.danjin:hover{
+    transform: scale(1.2);
+}
+
 .encore{
     position: absolute;
     top: 1100px;
     left: 1030px;
+    transition: transform .2s;
+}
+.encore:hover{
+    transform: scale(1.2);
 }
 
 .jianxin{
     position: absolute;
     top: 1100px;
     left: 1400px;
+    transition: transform .2s;
+}
+.jianxin:hover{
+    transform: scale(1.2);
 }
 
 .jinhsi{
     position: absolute;
     top: 1100px;
     left: 1730px;
+    transition: transform .2s;
+}
+.jinhsi:hover{
+    transform: scale(1.2);
 }
 
 .jiyan{
     position: absolute;
     top: 1600px;
     left: 280px;
+    transition: transform .2s;
+}
+.jiyan:hover{
+    transform: scale(1.2);
 }
 
 .lingyang{
     position: absolute;
     top: 1700px;
     left: 750px;
+    transition: transform .2s;
+}
+.lingyang:hover{
+    transform: scale(1.2);
 }
 
 .lumi{
     position: absolute;
     top: 1600px;
     left: 1100px;
+    transition: transform .2s;
+}
+.lumi:hover{
+    transform: scale(1.2);
 }
 
 .mortefi{
     position: absolute;
     top: 1600px;
     left: 1400px;
+    transition: transform .2s;
 }
 
+.mortefi:hover{
+    transform: scale(1.2);
+}
 .phoebe{
     position: absolute;
     top: 1600px;
     left: 1700px;
+    transition: transform .2s;
+}
+.phoebe:hover{
+    transform: scale(1.2);
 }
 .roccia{
     position: absolute;
     top: 2150px;
     left: 400px;
+    transition: transform .2s;
+}
+.roccia:hover{
+    transform: scale(1.2);
 }
 
 .sanhua{
     position: absolute;
     top: 2150px;
     left: 700px;
+    transition: transform .2s;
+}
+.sanhua:hover{
+    transform: scale(1.2);
 }
 
 .shorekeeper{
     position: absolute;
     top: 2150px;
     left: 1050px;
+    transition: transform .2s;
+}
+.shorekeeper:hover{
+    transform: scale(1.2);
 }
 
 .taoqi{
     position: absolute;
     top: 2150px;
     left: 1350px;
+    transition: transform .2s;
+}
+.taoqi:hover{
+    transform: scale(1.2);
 }
 
 .verina{
     position: absolute;
     top: 2100px;
     left: 1650px;
+    transition: transform .2s;
+}
+.verina:hover{
+    transform: scale(1.2);
 }
 
 .xiangli{
     position: absolute;
     top: 2600px;
     left: 300px;
+    transition: transform .2s;
+}
+.xiangli:hover{
+    transform: scale(1.2);
 }
 
 .yangyang{
     position: absolute;
     top: 2650px;
     left: 650px;
+    transition: transform .2s;
 }
+.yangyang:hover{
+    transform: scale(1.2);
+}
+
 
 .yinlin{
     position: absolute;
     top: 2650px;
     left: 1000px;
+    transition: transform .2s;
+}
+.yinlin:hover{
+    transform: scale(1.2);
 }
 
 .youhu{ 
     position: absolute;
     top: 2700px;
     left: 1400px;
+    transition: transform .2s;
+}
+.youhu:hover{
+    transform: scale(1.2);
 }
 
 .yuanwu{
     position: absolute;
     top: 2650px;
     left: 1700px;
+    transition: transform .2s;
+}
+.yuanwu:hover{
+    transform: scale(1.2);
 }
 
 .zani{
     position: absolute;
     top: 3200px;
     left: 900px;
+    transition: transform .2s;
+}
+.zani:hover{
+    transform: scale(1.2);
 }
 
 .zhezhi{
     position: absolute;
     top: 3150px;
     left: 1300px;
+    transition: transform .2s;
+}
+.zhezhi:hover{
+    transform: scale(1.2);
 }
