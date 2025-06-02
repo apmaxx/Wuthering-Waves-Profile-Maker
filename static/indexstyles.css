@@ -315,7 +315,7 @@ body{
 .zhezhi{
     position: absolute;
     top: 3150px;
-    left: 1300px;
+    left: 1200px;
     transition: transform .2s;
 }
 .zhezhi:hover{
