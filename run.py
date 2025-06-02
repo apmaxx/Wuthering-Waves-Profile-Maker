@@ -2,7 +2,7 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
-@app.route('/login')
+@app.route('/home')
 def wuwa_login():
 
 
