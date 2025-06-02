@@ -2,6 +2,193 @@ body{
     background-color: rgb(101, 164, 216);
 }
 
-h1{
-    text-align: center;
+.aalto{
+    position: absolute;
+    left: 450px;
+    top: 100px;
+        
+}
+
+.baizhi{
+    position: absolute;
+    left: 700px;
+    top: 100px;
+}
+
+.brant{
+    position: absolute;
+    left: 1050px;
+    top: 100px;
+}
+
+.calcharo{
+    position: absolute;
+    left: 1350px;
+    top: 100px;
+}
+
+.camellya{
+    position: absolute;
+    left: 1800px;
+    top: 100px;
+}
+
+.canterella{
+    position: absolute;
+    top: 600px;
+    left: 400px;
+}
+
+.carlotta{
+    position: absolute;
+    top: 600px;
+    left: 700px;
+}
+
+.cartethyia{
+    position: absolute;
+    top: 600px;
+    left: 1020px;
+}
+
+.changli{
+    position: absolute;
+    top: 600px;
+    left: 1400px;
+}
+
+.chixia{
+    position: absolute;
+    top: 600px;
+    left: 1800px;
+}
+
+.ciaccona{
+    position: absolute;
+    top: 1100px;
+    left: 400px;
+}
+
+.danjin{
+    position: absolute;
+    top: 1100px;
+    left: 750px;
+}
+.encore{
+    position: absolute;
+    top: 1100px;
+    left: 1030px;
+}
+
+.jianxin{
+    position: absolute;
+    top: 1100px;
+    left: 1400px;
+}
+
+.jinhsi{
+    position: absolute;
+    top: 1100px;
+    left: 1730px;
+}
+
+.jiyan{
+    position: absolute;
+    top: 1600px;
+    left: 280px;
+}
+
+.lingyang{
+    position: absolute;
+    top: 1700px;
+    left: 750px;
+}
+
+.lumi{
+    position: absolute;
+    top: 1600px;
+    left: 1100px;
+}
+
+.mortefi{
+    position: absolute;
+    top: 1600px;
+    left: 1400px;
+}
+
+.phoebe{
+    position: absolute;
+    top: 1600px;
+    left: 1700px;
+}
+.roccia{
+    position: absolute;
+    top: 2150px;
+    left: 400px;
+}
+
+.sanhua{
+    position: absolute;
+    top: 2150px;
+    left: 700px;
+}
+
+.shorekeeper{
+    position: absolute;
+    top: 2150px;
+    left: 1050px;
+}
+
+.taoqi{
+    position: absolute;
+    top: 2150px;
+    left: 1350px;
+}
+
+.verina{
+    position: absolute;
+    top: 2100px;
+    left: 1650px;
+}
+
+.xiangli{
+    position: absolute;
+    top: 2600px;
+    left: 300px;
+}
+
+.yangyang{
+    position: absolute;
+    top: 2650px;
+    left: 650px;
+}
+
+.yinlin{
+    position: absolute;
+    top: 2650px;
+    left: 1000px;
+}
+
+.youhu{ 
+    position: absolute;
+    top: 2700px;
+    left: 1400px;
+}
+
+.yuanwu{
+    position: absolute;
+    top: 2650px;
+    left: 1700px;
+}
+
+.zani{
+    position: absolute;
+    top: 3200px;
+    left: 900px;
+}
+
+.zhezhi{
+    position: absolute;
+    top: 3150px;
+    left: 1300px;
 }
